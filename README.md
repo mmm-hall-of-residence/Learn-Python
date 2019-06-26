@@ -31,11 +31,14 @@ Corey Schafer:
   * [Flask Tutorials](https://www.youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH)
   
   * [Web Scraping with BeautifulSoup and Requests](https://www.youtube.com/watch?v=ng2o98k983k&t=859s)
+  
+  * [VENV (Mac & Linux) - How to Use Virtual Environments with the Built-In venv Module](https://www.youtube.com/watch?v=Kg1Yvry_Ydk)
 
 Sentdex:
   
   * [sentdex python introduction](https://www.youtube.com/playlist?list=PLQVvvaa0QuDeAams7fkdcwOGBpGdHpXln)
-
+  
+  * [Pandas Tutorial](https://www.youtube.com/watch?v=Iqjy9UqKKuo)
 
 
 ### Github Profiles
@@ -60,7 +63,41 @@ Sentdex:
 
 * [Over 200 of the Best Machine Learning, NLP, and Python Tutorials — 2018 Edition](https://medium.com/machine-learning-in-practice/over-200-of-the-best-machine-learning-nlp-and-python-tutorials-2018-edition-dd8cf53cb7dc)
 
+* [Best Python books](https://realpython.com/best-python-books/)
+
+* [Best Python YouTube channels](https://realpython.com/python-youtube-channels/)
+
+* [Rock the command line- Popular terminal commands](https://towardsdatascience.com/rock-the-command-line-52c4b2ea34b7)
+
+* [Understanding Python Virtual Environments(Medium member article)](https://towardsdatascience.com/understanding-python-virtual-environments-7ccf690320d7)
+
+* [Build Slack app with Python](https://www.fullstackpython.com/blog/build-first-slack-bot-python.html)
+
+### Websites
+
+* [Automate the boring stuff with Python](https://automatetheboringstuff.com/)
+
+* [Real Python](https://realpython.com/)
+
+* [CoreyMS](https://realpython.com/interview-corey-schafer/)
+
+* [Git Handbook](https://git-scm.com/book/en/v2)
+
+### Practice
+
+* [Beginner Python exercises](http://www.practicepython.org/)
+
+* [Python Challenge](http://www.pythonchallenge.com/faq.php)
+
+
 ### Random
 
-* [Code Radio](https://www.youtube.com/watch?v=KtGXRvUjy7o)
+* [Code Radio](https://www.youtube.com/watch?v=mXRfApkMYZU)
 
+* [Python Wikipedia Page](https://en.wikipedia.org/wiki/Python_(programming_language))
+
+* [Interview with Corey Schafer](https://realpython.com/interview-corey-schafer/)
+
+***
+
+[Please read contributing instructions before submitting a PR](/CONTRIBUTING.md)
