@@ -73,6 +73,8 @@ Sentdex:
 
 * [Build Slack app with Python](https://www.fullstackpython.com/blog/build-first-slack-bot-python.html)
 
+* [Web scraping using Python](https://www.edureka.co/blog/web-scraping-with-python/)
+
 ### Websites
 
 * [Automate the boring stuff with Python](https://automatetheboringstuff.com/)
